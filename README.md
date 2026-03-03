@@ -6,6 +6,11 @@ This edition is intentionally built for Node.js operations, npm automation, and 
 
 ---
 
+## Demo Video
+
+https://github.com/user-attachments/assets/2077bde6-023d-4533-97af-c0401aed9cc0
+
+
 ## Overview
 
 This project runs a full research-to-execution flow:
@@ -164,24 +169,6 @@ One command:
 ```bash
 npm run run:full
 ```
-
----
-
-## Bot Running Video
-
-Add your running demo video here.
-
-If you upload the video to GitHub Releases/Drive/YouTube, place the link below:
-
-- **Watch video:** `PASTE_YOUR_VIDEO_URL_HERE`
-
-Optional local preview image:
-
-```markdown
-![Bot running preview](./assets/bot-running-preview.png)
-```
-
----
 
 ## Output Files
 
